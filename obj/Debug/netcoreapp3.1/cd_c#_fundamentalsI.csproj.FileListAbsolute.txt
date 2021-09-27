@@ -1,0 +1,12 @@
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/bin/Debug/netcoreapp3.1/cd_c#_fundamentalsI.deps.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/bin/Debug/netcoreapp3.1/cd_c#_fundamentalsI.runtimeconfig.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/bin/Debug/netcoreapp3.1/cd_c#_fundamentalsI.runtimeconfig.dev.json
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/bin/Debug/netcoreapp3.1/cd_c#_fundamentalsI.dll
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/bin/Debug/netcoreapp3.1/cd_c#_fundamentalsI.pdb
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.csprojAssemblyReference.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.AssemblyInfoInputs.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.AssemblyInfo.cs
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.csproj.CoreCompileInputs.cache
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.dll
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.pdb
+/Users/cbakcoleman/Desktop/CD_C#/cd_c#_fundamentalsI/obj/Debug/netcoreapp3.1/cd_c#_fundamentalsI.genruntimeconfig.cache
